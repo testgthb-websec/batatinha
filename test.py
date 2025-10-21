@@ -12,7 +12,6 @@ while True:
             print("You selected Option 2.")
         elif option == 3:
             print("Exiting the program.")
-            break
         else:
             print("Invalid option. Please select a number between 1 and 3.")
     except ValueError:
