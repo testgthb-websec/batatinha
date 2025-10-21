@@ -12,6 +12,8 @@ while True:
             print("You selected Option 2.")
         elif option == 4:
             print("You selected Option 4.")
+        elif option == 5 :
+            print("You selected Option 5.")
         elif option == 3:
             print("Exiting the program.")
             break
